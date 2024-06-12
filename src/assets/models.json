@@ -1,0 +1,35 @@
+[
+    {
+        "name": "thing-1816918-file-2836593",
+        "edge_count": 1728,
+        "poly_count": 1152,
+        "vert_count": 576,
+        "top_3_categories": [
+            "keycard",
+            "flash/flashbulb",
+            "inkpad/inking pad/stamp pad"
+        ]
+    },
+    {
+        "name": "thing-1886980-file-2948889",
+        "edge_count": 177,
+        "poly_count": 118,
+        "vert_count": 59,
+        "top_3_categories": [
+            "box",
+            "pan/pan metal container",
+            "keycard"
+        ]
+    },
+    {
+        "name": "thing-2161400-file-3411332",
+        "edge_count": 3876,
+        "poly_count": 2584,
+        "vert_count": 1302,
+        "top_3_categories": [
+            "flashlight/torch",
+            "antenna/aerial/transmitting aerial",
+            "radar"
+        ]
+    }
+]
