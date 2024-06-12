@@ -23,17 +23,17 @@ function Navbar({ extraMenuItem }: Props) {
           </a>
         </NavigationMenuItem>
         <NavigationMenuItem>
-          <a className="hover:underline" href="/about/">
+          <a className="hover:underline" href="/#/about/">
             About
           </a>
         </NavigationMenuItem>
         <NavigationMenuItem>
-          <a className="hover:underline" href="/models/">
+          <a className="hover:underline" href="/#/models/">
             Browse
           </a>
         </NavigationMenuItem>
         <NavigationMenuItem>
-          <a className="hover:underline" href="/help/">
+          <a className="hover:underline" href="/#/help/">
             Help
           </a>
         </NavigationMenuItem>
