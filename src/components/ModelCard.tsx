@@ -7,7 +7,7 @@ interface Props {
 
 function ModelCard({ title, url }: Props) {
   return (
-    <a href={title}>
+    <a href={"/#/" + title}>
       <Card>
         <CardHeader>
           <CardTitle>{title}</CardTitle>
