@@ -1,5 +1,401 @@
 [
     {
+        "name": "thing-3685600-file-6629571",
+        "edge_count": 4248,
+        "poly_count": 2832,
+        "vert_count": 1392,
+        "top_3_categories": [
+            "magnet",
+            "cylinder",
+            "grape"
+        ]
+    },
+    {
+        "name": "thing-3632462-file-6578815",
+        "edge_count": 10359,
+        "poly_count": 6906,
+        "vert_count": 3439,
+        "top_3_categories": [
+            "flashlight/torch",
+            "barrette",
+            "headlight/headlamp"
+        ]
+    },
+    {
+        "name": "thing-2752047-file-4536746",
+        "edge_count": 22422,
+        "poly_count": 14948,
+        "vert_count": 7476,
+        "top_3_categories": [
+            "earplug",
+            "flashlight/torch",
+            "inhaler/inhalator"
+        ]
+    },
+    {
+        "name": "thing-2845416-file-6255358",
+        "edge_count": 505182,
+        "poly_count": 336788,
+        "vert_count": 168380,
+        "top_3_categories": [
+            "ring",
+            "clasp",
+            "earplug"
+        ]
+    },
+    {
+        "name": "thing-3830006-file-6938526",
+        "edge_count": 4796,
+        "poly_count": 3176,
+        "vert_count": 1592,
+        "top_3_categories": [
+            "eraser",
+            "razorblade",
+            "pin/pin non jewelry"
+        ]
+    },
+    {
+        "name": "thing-5162175-file-11230514",
+        "edge_count": 213809,
+        "poly_count": 143886,
+        "vert_count": 69658,
+        "top_3_categories": [
+            "headlight/headlamp",
+            "space shuttle",
+            "car/car automobile/auto/auto automobile/automobile"
+        ]
+    },
+    {
+        "name": "thing-2777899-file-4602005",
+        "edge_count": 2004,
+        "poly_count": 1336,
+        "vert_count": 650,
+        "top_3_categories": [
+            "radiator",
+            "grape",
+            "pitchfork"
+        ]
+    },
+    {
+        "name": "thing-2281514-file-4328628",
+        "edge_count": 5808,
+        "poly_count": 3872,
+        "vert_count": 1920,
+        "top_3_categories": [
+            "eraser",
+            "keycard",
+            "barrette"
+        ]
+    },
+    {
+        "name": "thing-5146532-file-11127475",
+        "edge_count": 7098,
+        "poly_count": 4732,
+        "vert_count": 2368,
+        "top_3_categories": [
+            "grape",
+            "eraser",
+            "razorblade"
+        ]
+    },
+    {
+        "name": "thing-3788191-file-6848662",
+        "edge_count": 924,
+        "poly_count": 616,
+        "vert_count": 320,
+        "top_3_categories": [
+            "eraser",
+            "flashlight/torch",
+            "clip"
+        ]
+    },
+    {
+        "name": "thing-4702579-file-9054935",
+        "edge_count": 342,
+        "poly_count": 228,
+        "vert_count": 116,
+        "top_3_categories": [
+            "earplug",
+            "football helmet",
+            "urn"
+        ]
+    },
+    {
+        "name": "thing-3331497-file-5845877",
+        "edge_count": 975,
+        "poly_count": 650,
+        "vert_count": 317,
+        "top_3_categories": [
+            "file/file tool",
+            "pin/pin non jewelry",
+            "flashlight/torch"
+        ]
+    },
+    {
+        "name": "thing-5153552-file-11176992",
+        "edge_count": 13511,
+        "poly_count": 9225,
+        "vert_count": 4265,
+        "top_3_categories": [
+            "gun",
+            "toy",
+            "flashlight/torch"
+        ]
+    },
+    {
+        "name": "thing-3240863-file-5771002",
+        "edge_count": 2976,
+        "poly_count": 1984,
+        "vert_count": 994,
+        "top_3_categories": [
+            "canister/canister",
+            "flashlight/torch",
+            "saltshaker"
+        ]
+    },
+    {
+        "name": "thing-4865426-file-9596631",
+        "edge_count": 2082,
+        "poly_count": 1388,
+        "vert_count": 696,
+        "top_3_categories": [
+            "eraser",
+            "notepad",
+            "grape"
+        ]
+    },
+    {
+        "name": "thing-3836337-file-6949336",
+        "edge_count": 192456,
+        "poly_count": 128304,
+        "vert_count": 64160,
+        "top_3_categories": [
+            "parakeet/parrakeet/parroket/paraquet/paroquet/parroquet",
+            "bird",
+            "flap"
+        ]
+    },
+    {
+        "name": "thing-4807620-file-9396094",
+        "edge_count": 1544457,
+        "poly_count": 1029638,
+        "vert_count": 514841,
+        "top_3_categories": [
+            "toy",
+            "figurine",
+            "flamingo"
+        ]
+    },
+    {
+        "name": "thing-4668161-file-8928865",
+        "edge_count": 3168,
+        "poly_count": 2112,
+        "vert_count": 1058,
+        "top_3_categories": [
+            "ping-pong ball",
+            "coin",
+            "flash/flashbulb"
+        ]
+    },
+    {
+        "name": "thing-2786223-file-4713854",
+        "edge_count": 34227,
+        "poly_count": 22818,
+        "vert_count": 11377,
+        "top_3_categories": [
+            "barrette",
+            "toy",
+            "broach"
+        ]
+    },
+    {
+        "name": "thing-2804420-file-4671681",
+        "edge_count": 7101,
+        "poly_count": 4734,
+        "vert_count": 2357,
+        "top_3_categories": [
+            "coin",
+            "strainer",
+            "ring"
+        ]
+    },
+    {
+        "name": "thing-3438146-file-6089171",
+        "edge_count": 6432,
+        "poly_count": 4288,
+        "vert_count": 2126,
+        "top_3_categories": [
+            "eraser",
+            "cigarette",
+            "clip"
+        ]
+    },
+    {
+        "name": "thing-2832339-file-4747395",
+        "edge_count": 1098,
+        "poly_count": 732,
+        "vert_count": 368,
+        "top_3_categories": [
+            "keycard",
+            "mint candy",
+            "file/file tool"
+        ]
+    },
+    {
+        "name": "thing-3690366-file-6639507",
+        "edge_count": 5562,
+        "poly_count": 3708,
+        "vert_count": 1850,
+        "top_3_categories": [
+            "pin/pin non jewelry",
+            "eraser",
+            "toy"
+        ]
+    },
+    {
+        "name": "thing-3455150-file-6125910",
+        "edge_count": 434,
+        "poly_count": 280,
+        "vert_count": 142,
+        "top_3_categories": [
+            "eraser",
+            "file/file tool",
+            "magnet"
+        ]
+    },
+    {
+        "name": "thing-3939397-file-7177613",
+        "edge_count": 1620,
+        "poly_count": 1080,
+        "vert_count": 532,
+        "top_3_categories": [
+            "cylinder",
+            "cube/square block",
+            "eraser"
+        ]
+    },
+    {
+        "name": "thing-3826817-file-6928375",
+        "edge_count": 29007,
+        "poly_count": 19338,
+        "vert_count": 9659,
+        "top_3_categories": [
+            "ping-pong ball",
+            "ring",
+            "earplug"
+        ]
+    },
+    {
+        "name": "thing-3237576-file-5655184",
+        "edge_count": 3056,
+        "poly_count": 2040,
+        "vert_count": 1017,
+        "top_3_categories": [
+            "pin/pin non jewelry",
+            "coin",
+            "barrette"
+        ]
+    },
+    {
+        "name": "thing-2807305-file-4680920",
+        "edge_count": 11427,
+        "poly_count": 7618,
+        "vert_count": 3807,
+        "top_3_categories": [
+            "flashlight/torch",
+            "mint candy",
+            "toothpaste"
+        ]
+    },
+    {
+        "name": "thing-4818089-file-9430169",
+        "edge_count": 924,
+        "poly_count": 616,
+        "vert_count": 308,
+        "top_3_categories": [
+            "pitchfork",
+            "thumbtack/drawing pin/pushpin",
+            "dustpan"
+        ]
+    },
+    {
+        "name": "thing-4680887-file-8981176",
+        "edge_count": 309,
+        "poly_count": 206,
+        "vert_count": 105,
+        "top_3_categories": [
+            "flashlight/torch",
+            "pitchfork",
+            "pin/pin non jewelry"
+        ]
+    },
+    {
+        "name": "thing-3616845-file-6477684",
+        "edge_count": 4722,
+        "poly_count": 3148,
+        "vert_count": 1576,
+        "top_3_categories": [
+            "flashlight/torch",
+            "drone",
+            "igniter/ignitor/lighter"
+        ]
+    },
+    {
+        "name": "thing-2161400-file-3411332",
+        "edge_count": 3876,
+        "poly_count": 2584,
+        "vert_count": 1302,
+        "top_3_categories": [
+            "flashlight/torch",
+            "antenna/aerial/transmitting aerial",
+            "radar"
+        ]
+    },
+    {
+        "name": "thing-4883587-file-9725056",
+        "edge_count": 158631,
+        "poly_count": 105754,
+        "vert_count": 52879,
+        "top_3_categories": [
+            "eraser",
+            "dustpan",
+            "spatula"
+        ]
+    },
+    {
+        "name": "thing-4656936-file-8893045",
+        "edge_count": 59490,
+        "poly_count": 39660,
+        "vert_count": 19806,
+        "top_3_categories": [
+            "ring",
+            "keycard",
+            "coin"
+        ]
+    },
+    {
+        "name": "thing-2166721-file-3420399",
+        "edge_count": 20652,
+        "poly_count": 13768,
+        "vert_count": 6852,
+        "top_3_categories": [
+            "headlight/headlamp",
+            "flashlight/torch",
+            "brake light"
+        ]
+    },
+    {
+        "name": "thing-3722260-file-6708947",
+        "edge_count": 3060,
+        "poly_count": 2040,
+        "vert_count": 1012,
+        "top_3_categories": [
+            "pin/pin non jewelry",
+            "broach",
+            "hinge"
+        ]
+    },
+    {
         "name": "thing-1816918-file-2836593",
         "edge_count": 1728,
         "poly_count": 1152,
@@ -8,6 +404,413 @@
             "keycard",
             "flash/flashbulb",
             "inkpad/inking pad/stamp pad"
+        ]
+    },
+    {
+        "name": "thing-4924644-file-9787399",
+        "edge_count": 10596,
+        "poly_count": 7064,
+        "vert_count": 3532,
+        "top_3_categories": [
+            "flashlight/torch",
+            "pendulum",
+            "tag"
+        ]
+    },
+    {
+        "name": "thing-3711161-file-6684000",
+        "edge_count": 510,
+        "poly_count": 340,
+        "vert_count": 174,
+        "top_3_categories": [
+            "cube/square block",
+            "eraser",
+            "matchbox"
+        ]
+    },
+    {
+        "name": "thing-2772487-file-4609659",
+        "edge_count": 71773,
+        "poly_count": 47895,
+        "vert_count": 23869,
+        "top_3_categories": [
+            "bedpan",
+            "earplug",
+            "thimble"
+        ]
+    },
+    {
+        "name": "thing-3531129-file-6793021",
+        "edge_count": 6024,
+        "poly_count": 4016,
+        "vert_count": 2016,
+        "top_3_categories": [
+            "bowler hat/bowler/derby hat/derby/plug hat",
+            "pin/pin non jewelry",
+            "flashlight/torch"
+        ]
+    },
+    {
+        "name": "thing-3961981-file-7226327",
+        "edge_count": 4398,
+        "poly_count": 2932,
+        "vert_count": 1466,
+        "top_3_categories": [
+            "thumbtack/drawing pin/pushpin",
+            "faucet/spigot/tap",
+            "earplug"
+        ]
+    },
+    {
+        "name": "thing-4128393-file-7586728",
+        "edge_count": 354,
+        "poly_count": 236,
+        "vert_count": 120,
+        "top_3_categories": [
+            "eraser",
+            "broach",
+            "cantaloup/cantaloupe"
+        ]
+    },
+    {
+        "name": "thing-3571731-file-6464881",
+        "edge_count": 12213,
+        "poly_count": 8142,
+        "vert_count": 4073,
+        "top_3_categories": [
+            "earplug",
+            "thumbtack/drawing pin/pushpin",
+            "eraser"
+        ]
+    },
+    {
+        "name": "thing-2870410-file-4842668",
+        "edge_count": 6834,
+        "poly_count": 4556,
+        "vert_count": 2280,
+        "top_3_categories": [
+            "flashlight/torch",
+            "needle",
+            "dagger"
+        ]
+    },
+    {
+        "name": "thing-3254648-file-5692606",
+        "edge_count": 5326,
+        "poly_count": 3549,
+        "vert_count": 1779,
+        "top_3_categories": [
+            "flashlight/torch",
+            "eraser",
+            "pen"
+        ]
+    },
+    {
+        "name": "thing-3853476-file-6990354",
+        "edge_count": 5550,
+        "poly_count": 3700,
+        "vert_count": 1838,
+        "top_3_categories": [
+            "eraser",
+            "keycard",
+            "igniter/ignitor/lighter"
+        ]
+    },
+    {
+        "name": "thing-4875756-file-9629957",
+        "edge_count": 86409,
+        "poly_count": 57606,
+        "vert_count": 28799,
+        "top_3_categories": [
+            "grape",
+            "eraser",
+            "keycard"
+        ]
+    },
+    {
+        "name": "thing-2434431-file-3909439",
+        "edge_count": 288,
+        "poly_count": 192,
+        "vert_count": 120,
+        "top_3_categories": [
+            "headlight/headlamp",
+            "flashlight/torch",
+            "reflector"
+        ]
+    },
+    {
+        "name": "thing-3929518-file-7157047",
+        "edge_count": 54,
+        "poly_count": 36,
+        "vert_count": 20,
+        "top_3_categories": [
+            "cylinder",
+            "eraser",
+            "jar"
+        ]
+    },
+    {
+        "name": "thing-5023733-file-10359248",
+        "edge_count": 377465,
+        "poly_count": 258003,
+        "vert_count": 118756,
+        "top_3_categories": [
+            "figurine",
+            "balloon",
+            "toy"
+        ]
+    },
+    {
+        "name": "thing-4963898-file-10050498",
+        "edge_count": 13227,
+        "poly_count": 8818,
+        "vert_count": 4411,
+        "top_3_categories": [
+            "ping-pong ball",
+            "flashlight/torch",
+            "lemon"
+        ]
+    },
+    {
+        "name": "thing-2725949-file-4476437",
+        "edge_count": 192,
+        "poly_count": 128,
+        "vert_count": 66,
+        "top_3_categories": [
+            "box",
+            "cube/square block",
+            "cylinder"
+        ]
+    },
+    {
+        "name": "thing-3647415-file-6543040",
+        "edge_count": 10857,
+        "poly_count": 7238,
+        "vert_count": 3617,
+        "top_3_categories": [
+            "pin/pin non jewelry",
+            "stylus",
+            "dental floss/floss"
+        ]
+    },
+    {
+        "name": "thing-3695978-file-6651705",
+        "edge_count": 24462,
+        "poly_count": 16308,
+        "vert_count": 8152,
+        "top_3_categories": [
+            "flashlight/torch",
+            "pitchfork",
+            "pendulum"
+        ]
+    },
+    {
+        "name": "thing-3608288-file-6458611",
+        "edge_count": 1644,
+        "poly_count": 1096,
+        "vert_count": 540,
+        "top_3_categories": [
+            "file/file tool",
+            "flashlight/torch",
+            "razorblade"
+        ]
+    },
+    {
+        "name": "thing-3668667-file-6593467",
+        "edge_count": 48641,
+        "poly_count": 32394,
+        "vert_count": 16219,
+        "top_3_categories": [
+            "hinge",
+            "broach",
+            "doorknob/doorhandle"
+        ]
+    },
+    {
+        "name": "thing-2934867-file-4977963",
+        "edge_count": 14396,
+        "poly_count": 9596,
+        "vert_count": 4801,
+        "top_3_categories": [
+            "file/file tool",
+            "keycard",
+            "notepad"
+        ]
+    },
+    {
+        "name": "thing-3611058-file-6465057",
+        "edge_count": 4779,
+        "poly_count": 3186,
+        "vert_count": 1593,
+        "top_3_categories": [
+            "funnel",
+            "windsock/air sock/air-sleeve/wind sleeve/wind cone",
+            "urn"
+        ]
+    },
+    {
+        "name": "thing-3893526-file-7080269",
+        "edge_count": 12543,
+        "poly_count": 8362,
+        "vert_count": 4181,
+        "top_3_categories": [
+            "doorknob/doorhandle",
+            "button",
+            "coin"
+        ]
+    },
+    {
+        "name": "thing-4712448-file-9086102",
+        "edge_count": 22635,
+        "poly_count": 15090,
+        "vert_count": 7545,
+        "top_3_categories": [
+            "ring",
+            "wristband",
+            "pacifier/teething ring"
+        ]
+    },
+    {
+        "name": "thing-5192612-file-11301224",
+        "edge_count": 4689,
+        "poly_count": 3126,
+        "vert_count": 1565,
+        "top_3_categories": [
+            "eraser",
+            "coin",
+            "die/dice"
+        ]
+    },
+    {
+        "name": "thing-3569655-file-6371323",
+        "edge_count": 1536,
+        "poly_count": 1024,
+        "vert_count": 512,
+        "top_3_categories": [
+            "button",
+            "ring",
+            "camera lens"
+        ]
+    },
+    {
+        "name": "thing-3161940-file-5484711",
+        "edge_count": 35313,
+        "poly_count": 23542,
+        "vert_count": 11771,
+        "top_3_categories": [
+            "pin/pin non jewelry",
+            "broach",
+            "thumbtack/drawing pin/pushpin"
+        ]
+    },
+    {
+        "name": "thing-5232265-file-11420942",
+        "edge_count": 3462,
+        "poly_count": 2308,
+        "vert_count": 1136,
+        "top_3_categories": [
+            "grape",
+            "keycard",
+            "file/file tool"
+        ]
+    },
+    {
+        "name": "thing-3372712-file-5940301",
+        "edge_count": 3276,
+        "poly_count": 2184,
+        "vert_count": 1094,
+        "top_3_categories": [
+            "flashlight/torch",
+            "flash/flashbulb",
+            "coin"
+        ]
+    },
+    {
+        "name": "thing-5197308-file-11312944",
+        "edge_count": 9174,
+        "poly_count": 6116,
+        "vert_count": 3062,
+        "top_3_categories": [
+            "poker chip",
+            "coin",
+            "button"
+        ]
+    },
+    {
+        "name": "thing-2773100-file-4589783",
+        "edge_count": 723,
+        "poly_count": 482,
+        "vert_count": 239,
+        "top_3_categories": [
+            "doorknob/doorhandle",
+            "barrette",
+            "thumbtack/drawing pin/pushpin"
+        ]
+    },
+    {
+        "name": "thing-3702906-file-6666521",
+        "edge_count": 834,
+        "poly_count": 556,
+        "vert_count": 274,
+        "top_3_categories": [
+            "eraser",
+            "grape",
+            "keycard"
+        ]
+    },
+    {
+        "name": "thing-3139419-file-5435730",
+        "edge_count": 1035,
+        "poly_count": 690,
+        "vert_count": 345,
+        "top_3_categories": [
+            "pin/pin non jewelry",
+            "thumbtack/drawing pin/pushpin",
+            "broach"
+        ]
+    },
+    {
+        "name": "thing-3276779-file-5734985",
+        "edge_count": 13035,
+        "poly_count": 8690,
+        "vert_count": 4347,
+        "top_3_categories": [
+            "thumbtack/drawing pin/pushpin",
+            "figurine",
+            "thimble"
+        ]
+    },
+    {
+        "name": "thing-3377962-file-5951820",
+        "edge_count": 8055,
+        "poly_count": 5370,
+        "vert_count": 2687,
+        "top_3_categories": [
+            "vase",
+            "urn",
+            "thimble"
+        ]
+    },
+    {
+        "name": "thing-3993167-file-7289942",
+        "edge_count": 1962,
+        "poly_count": 1308,
+        "vert_count": 652,
+        "top_3_categories": [
+            "eraser",
+            "cornice/valance/valance board/pelmet",
+            "barrette"
+        ]
+    },
+    {
+        "name": "thing-4719935-file-9118789",
+        "edge_count": 1749,
+        "poly_count": 1166,
+        "vert_count": 585,
+        "top_3_categories": [
+            "ping-pong ball",
+            "saucer",
+            "coin"
         ]
     },
     {
@@ -22,14 +825,80 @@
         ]
     },
     {
-        "name": "thing-2161400-file-3411332",
-        "edge_count": 3876,
-        "poly_count": 2584,
-        "vert_count": 1302,
+        "name": "thing-5180630-file-11261112",
+        "edge_count": 1122,
+        "poly_count": 748,
+        "vert_count": 370,
+        "top_3_categories": [
+            "ring",
+            "doorknob/doorhandle",
+            "keycard"
+        ]
+    },
+    {
+        "name": "thing-3822962-file-6919344",
+        "edge_count": 5598,
+        "poly_count": 3732,
+        "vert_count": 1848,
+        "top_3_categories": [
+            "eraser",
+            "file/file tool",
+            "keycard"
+        ]
+    },
+    {
+        "name": "thing-4855074-file-10676539",
+        "edge_count": 276045,
+        "poly_count": 184030,
+        "vert_count": 90963,
         "top_3_categories": [
             "flashlight/torch",
-            "antenna/aerial/transmitting aerial",
-            "radar"
+            "eraser",
+            "pen"
+        ]
+    },
+    {
+        "name": "thing-2957121-file-5096879",
+        "edge_count": 4185,
+        "poly_count": 2790,
+        "vert_count": 1381,
+        "top_3_categories": [
+            "keycard",
+            "igniter/ignitor/lighter",
+            "barrette"
+        ]
+    },
+    {
+        "name": "thing-3577831-file-6391597",
+        "edge_count": 9285,
+        "poly_count": 6190,
+        "vert_count": 3085,
+        "top_3_categories": [
+            "clasp",
+            "barrette",
+            "coin"
+        ]
+    },
+    {
+        "name": "thing-3720450-file-6704392",
+        "edge_count": 76780,
+        "poly_count": 51200,
+        "vert_count": 25510,
+        "top_3_categories": [
+            "radiator",
+            "box",
+            "crate"
+        ]
+    },
+    {
+        "name": "thing-4635067-file-8834016",
+        "edge_count": 5394,
+        "poly_count": 3596,
+        "vert_count": 1794,
+        "top_3_categories": [
+            "flashlight/torch",
+            "eraser",
+            "mint candy"
         ]
     }
 ]
