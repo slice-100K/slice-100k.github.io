@@ -12,7 +12,7 @@ function PageWrapper({ children, title }: Props) {
     <>
       <Navbar />
       <div className="flex flex-1 flex-col">
-        <div className="mt-16 flex-1 px-10 py-4">
+        <div className="mt-16 flex-1 p-4">
           {title && <h1 className="text-3xl font-semibold">{title}</h1>}
           {children}
         </div>

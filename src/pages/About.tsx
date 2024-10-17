@@ -3,7 +3,7 @@ import PageWrapper from '@/components/layout/PageWrapper';
 function About() {
   return (
     <PageWrapper>
-      <div className="container max-w-screen-lg space-y-4 py-4">
+      <div className="container max-w-screen-lg space-y-4 px-0 py-4 md:px-4">
         <h1>About</h1>
         <p>
           G-code (Geometric code) or RS-274 is the most widely used computer

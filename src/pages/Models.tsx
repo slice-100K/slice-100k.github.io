@@ -123,7 +123,7 @@ function Models() {
         extraMenuItem={
           <Sheet>
             <SheetTrigger className="block p-0 md:hidden">
-              <Button className="h-8 ">
+              <Button variant="secondary" className="h-8 ">
                 <SearchIcon className="h-full w-full" />
               </Button>
             </SheetTrigger>
