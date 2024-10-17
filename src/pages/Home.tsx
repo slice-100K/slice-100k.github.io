@@ -18,7 +18,7 @@ function Home() {
           </a>
           <a
             className="underline"
-            href="https://github.com/slice-100K/slice-100k.github.io"
+            href="https://github.com/idealab-isu/SLICE-100K"
           >
             Github
           </a>
