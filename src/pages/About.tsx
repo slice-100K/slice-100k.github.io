@@ -15,7 +15,7 @@ function About() {
         <p>
           Currently there does not exist a large repository of curated CAD
           models along with their corresponding G-code files for additive
-          manufacturing. To address this issue, we present SLICE-100K, a
+          manufacturing. To address this issue, we present Slice-100k, a
           first-of-its-kind dataset of over 100,000 G-code files, along with
           their tessellated CAD model, LVIS (Large Vocabulary Instance
           Segmentation) categories, geometric properties, and renderings.
@@ -32,7 +32,7 @@ function About() {
           >
             here
           </a>
-          . SLICE-100K will be the first step in developing a multimodal
+          . Slice-100k will be the first step in developing a multimodal
           foundation model for digital manufacturing.
         </p>
       </div>
