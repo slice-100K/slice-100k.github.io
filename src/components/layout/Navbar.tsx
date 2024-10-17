@@ -11,7 +11,7 @@ interface Props {
 
 function Navbar({ extraMenuItem }: Props) {
   return (
-    <NavigationMenu className="fixed flex h-16 w-screen flex-none justify-start bg-slate-800 px-8 py-4">
+    <NavigationMenu className="fixed flex h-16 w-screen flex-none justify-start bg-slate-800 px-8 py-4 text-secondary">
       <NavigationMenuList className="space-x-4">
         {extraMenuItem && (
           <NavigationMenuItem>{extraMenuItem}</NavigationMenuItem>

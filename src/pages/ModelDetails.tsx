@@ -37,13 +37,13 @@ function ModelDetails() {
           <div className="space-y-2">
             <h2 className="text-xl font-bold">Tags</h2>
             <div className="w-100 space-x-2 space-y-2">
-              <Badge variant="outline">
+              <Badge variant="secondary">
                 {'Edge count: ' + modelData.edge_count}
               </Badge>
-              <Badge variant="outline">
+              <Badge variant="secondary">
                 {'Poly count: ' + modelData.poly_count}
               </Badge>
-              <Badge variant="outline">
+              <Badge variant="secondary">
                 {'Vert count: ' + modelData.vert_count}
               </Badge>
               {modelData.top_3_categories.map((tag) => {

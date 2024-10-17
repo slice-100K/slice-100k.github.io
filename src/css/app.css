@@ -30,5 +30,5 @@ h2 {
 }
 
 code {
-  @apply mx-1 rounded-md bg-slate-800 px-2;
+  @apply mx-1 rounded-md bg-slate-200 px-2;
 }

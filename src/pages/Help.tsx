@@ -3,10 +3,10 @@ import PageWrapper from '@/components/layout/PageWrapper';
 function About() {
   return (
     <PageWrapper>
-      <div className="container space-y-4 py-4">
-        <h1 className="text-orange-400">User Manual for 3D Model Search</h1>
+      <div className="container max-w-screen-lg space-y-4  py-4">
+        <h1>User Manual for 3D Model Search</h1>
         <div className="px-8">
-          <h2 className="text-orange-300">Query Field</h2>
+          <h2>Query Field</h2>
           <ul className="list-disc ps-8">
             <li>Enter keywords separated by spaces.</li>
             <li>
@@ -16,7 +16,7 @@ function About() {
           </ul>
         </div>
         <div className="px-8">
-          <h2 className="text-orange-300">Integer Min/Max Fields</h2>
+          <h2>Integer Min/Max Fields</h2>
 
           <ul className="list-disc ps-8">
             <li>

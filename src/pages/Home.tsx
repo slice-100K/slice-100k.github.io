@@ -8,7 +8,7 @@ function Home() {
         <div className="w-100 flex items-center justify-center">
           <img className="w-96" src="/logo.png" alt="" />
         </div>
-        <h1 className="pb-4 text-center text-5xl text-slate-300">
+        <h1 className="pb-4 text-center text-5xl">
           Slice-100K Explorer
         </h1>
         <SearchBar />

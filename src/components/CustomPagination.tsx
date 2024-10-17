@@ -79,7 +79,7 @@ function CustomPagination({
         {getPageList().map((page, index) => (
           <PaginationItem
             key={index}
-            className={currentPage === page ? 'rounded-md bg-slate-800' : ''}
+            className={currentPage === page ? 'rounded-md bg-slate-300' : ''}
           >
             {page === -1 ? (
               <PaginationItem>
